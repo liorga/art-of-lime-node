@@ -1,0 +1,22 @@
+{
+  "name": "art-of-lime-node",
+  "version": "1.0.0",
+  "description": "artoflime.com backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liorga/art-of-lime-node.git"
+  },
+  "author": "lior gal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liorga/art-of-lime-node/issues"
+  },
+  "homepage": "https://github.com/liorga/art-of-lime-node#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
